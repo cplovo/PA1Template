@@ -1,25 +1,20 @@
-# PA 0 Design/Algorithm and Test case (20 points)
+# PA1 Design and Test Cases(10 points)
 
-Grade: /20
+Grade: /10
 
-## Design/Algorithm (10 points)
+## Design(7 points)
 
-| Earned | Possible | Requirement                                   | Grading Comments |
-|--------|----------|-----------------------------------------------|------------------|
-|     2   | 2        | Algorithm follows rules of an algorithm (no code)|                  |
-|      3  | 3        | Algorithm has reasonable steps |                 
-|      2  | 2        | Algorithm includes input/output steps  |                
-|      1  | 1        | Algorithm include calculation steps|                  
-|      2  | 2        | Calculation is correct |                 
+| Earned | Possible | Requirement                            | Grading Comments |
+| ------ | -------- | -------------------------------------- | ---------------- |
+|        | 1        | data fields for class Hand             |                  |
+|        | 1        | constructor for class Hand             |                  |
+|        | 1        | methods for class Hand                  |                  |
+|        | 1        | display/toString method for class Hand |                  |
+|        | 2        | algorithm for add/total                |
 
-### Additional Comments
+## Test cases(3 points)
 
-
-## Test cases (10 points)
-
-| Earned | Possible | Requirement                                                | Grading Comments |
-|--------|----------|------------------------------------------------------------|------------------|
-|   8    | 8        | There are enough test cases|         |
-|     2   | 2        | Test cases cover boundary/corner cases (i.e. R =0)|                  |
-                                                          
-### Additional Comments
+| Earned | Possible | Requirement                                    | Grading Comments |
+| ------ | -------- | ---------------------------------------------- | ---------------- |
+|        | 2        | Good test cases that are not overly repetitive |                  |
+|        | 1        | Test cases correct                             |                  |
