@@ -1,4 +1,4 @@
-//pa0
+//pa1
 import java.util.Scanner;  // Import the Scanner class
 
 public class PA1{
